@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\1651democode\1651democode\obj\Debug\net8.0\1651democode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\1651democode\1651democode\obj\Debug\net8.0\1651democode.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\1651democode\1651democode\obj\Debug\net8.0\1651democode.AssemblyInfo.cs
+C:\Users\Admin\source\repos\1651democode\1651democode\obj\Debug\net8.0\1651democode.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\1651democode\1651democode\bin\Debug\net8.0\1651democode.exe
+C:\Users\Admin\source\repos\1651democode\1651democode\bin\Debug\net8.0\1651democode.deps.json
+C:\Users\Admin\source\repos\1651democode\1651democode\bin\Debug\net8.0\1651democode.runtimeconfig.json
+C:\Users\Admin\source\repos\1651democode\1651democode\bin\Debug\net8.0\1651democode.dll
+C:\Users\Admin\source\repos\1651democode\1651democode\bin\Debug\net8.0\1651democode.pdb
+C:\Users\Admin\source\repos\1651democode\1651democode\obj\Debug\net8.0\1651democode.dll
+C:\Users\Admin\source\repos\1651democode\1651democode\obj\Debug\net8.0\refint\1651democode.dll
+C:\Users\Admin\source\repos\1651democode\1651democode\obj\Debug\net8.0\1651democode.pdb
+C:\Users\Admin\source\repos\1651democode\1651democode\obj\Debug\net8.0\1651democode.genruntimeconfig.cache
+C:\Users\Admin\source\repos\1651democode\1651democode\obj\Debug\net8.0\ref\1651democode.dll
